@@ -1,24 +1,8 @@
-# README
+# правительственные файлы
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+вы не можете получить в наши секретные файлы.
 
-* Ruby version
+Последний человек , чтобы пройти наш брандмауэр был taughted беспощадно группой мощных коротких женщин , приносящих harpsicords и размахивая руками над их головами . Я говорю тебе. Вы никогда не должны расстраивать сильным русским женщинам низкого роста, вы будете платить за это в конце концов.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Это здорово , что вы перевели это . Но вы должны вернуться к разрушению нашего unpenatrable кода базы , американский Свиной .
